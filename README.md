@@ -22,12 +22,12 @@ escojimos. Hay algunas pistas que nos ayudaran a ganar el juego y son:
 
 ![capture3](https://user-images.githubusercontent.com/3207930/51856381-939b2780-22fd-11e9-945b-fe728f0008b7.PNG)
 
-Y asi jugaremos hasta que descubramos todos los espacios sin toparnos con alguna mina y ganaremos.
+Y asi jugaremos hasta que descubramos todos los espacios sin toparnos con alguna mina. y si sucede esto GANAREMOS!
 
 ![capture4](https://user-images.githubusercontent.com/3207930/51856414-a4e43400-22fd-11e9-8b24-00978fcdfa16.PNG)
 
 
-Si en alguno de esos movimientos caemos en el espacio de alguna bomba perderemos y se mostrará todo el tablero junto con las minas ([*])
+Si en alguno de esos movimientos caemos en el espacio de alguna bomba perderemos y se mostrará todo el tablero junto con las minas ([x])
 
 ![capture5](https://user-images.githubusercontent.com/3207930/51857054-4324c980-22ff-11e9-9b0f-4333e24e732a.PNG)
 
