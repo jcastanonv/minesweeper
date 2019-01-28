@@ -29,7 +29,10 @@ Y asi jugaremos hasta que descubramos todos los espacios sin toparnos con alguna
 
 Si en alguno de esos movimientos caemos en el espacio de alguna bomba perderemos y se mostrará todo el tablero junto con las minas ([*])
 
+![capture5](https://user-images.githubusercontent.com/3207930/51857054-4324c980-22ff-11e9-9b0f-4333e24e732a.PNG)
 
+
+Entonces comenzemos a jugar!!! :D
 
 
 
