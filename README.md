@@ -13,7 +13,25 @@ Para llenar el valor de movimiento debemos insertar dos numeros (fila y columna)
 ![capture1](https://user-images.githubusercontent.com/3207930/51855999-91849900-22fc-11e9-8ef9-eaa9215f5164.PNG)
 
 Despues de a ver llenado estos primeros datos, presionaremos enter y mostrara el tablero del juego junto con el primer movimiento que 
-escojimos.
+escojimos. Hay algunas pistas que nos ayudaran a ganar el juego y son:
+- Si en algun movimiento nos topamos con un valor 0 todos los 0 que esten conectados a este se mostraran
+
+![capture2](https://user-images.githubusercontent.com/3207930/51856185-11aafe80-22fd-11e9-9d93-5632c21afbb8.PNG)
+
+- Si en el siguiente movimiento nos topamos con un espacio cerca a una o mas minas, en ese espacio nos indicara la cantidad de bombas que se encuentran cerca.
+
+![capture3](https://user-images.githubusercontent.com/3207930/51856381-939b2780-22fd-11e9-945b-fe728f0008b7.PNG)
+
+Y asi jugaremos hasta que descubramos todos los espacios sin toparnos con alguna mina y ganaremos.
+
+![capture4](https://user-images.githubusercontent.com/3207930/51856414-a4e43400-22fd-11e9-8b24-00978fcdfa16.PNG)
+
+
+Si en alguno de esos movimientos caemos en el espacio de alguna bomba perderemos y se mostrará todo el tablero junto con las minas ([*])
+
+
+
+
 
 
 
