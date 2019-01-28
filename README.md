@@ -5,7 +5,12 @@ Para comenzar solo necesitamos:
 - Cantidad de minas.
 - Primer movimiento para comenzar a jugar.
 
-![capture1](https://user-images.githubusercontent.com/3207930/51854959-0dc9ad00-22fa-11e9-829f-6799e9986a72.PNG)
+Ejemplo: En este caso estableceremos el board size = 5, lo que significa que nos devolvera un tablero de 5x5; la cantidad de minas sera 2
+que estaran distribuidas aleatoriamente.
+Para llenar el valor de movimiento debemos insertar dos numeros (fila y columna) separados por una ",", como se muestra en la captura 
+(0,0)
+
+
 
 Despues de a ver llenado estos primeros datos, presionaremos enter y obtendremos el tablero junto con el primer movimiento mostrado
 
